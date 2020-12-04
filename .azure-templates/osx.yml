@@ -3,7 +3,7 @@ jobs:
   displayName: MacOS
 
   pool:
-    vmImage: 'macos-latest'
+    vmImage: 'macOS-latest'
   strategy:
     matrix:
       Python37:
